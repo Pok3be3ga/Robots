@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acc90894567c7af419741d932641c63b, type: 3}
+  m_Name: Chaptor 0
+  m_EditorClassIdentifier: 
+  EnamyWavesArray:
+  - Enemy: {fileID: 9050758734990387873, guid: 3a4b9a2811f417c44a688bc2400793b0, type: 3}
+    NumberPerSecond:
+    - 1
+    - 2
+    - 3
+    - 1
+    - 1.5
+    - 1.6
+    - 2
+  - Enemy: {fileID: 2881317471807888698, guid: 66756df1cf2631d49a34ee7b6adb63e1, type: 3}
+    NumberPerSecond:
+    - 1
+    - 0
+    - 0
+    - 1
+    - 1
+    - 1
+    - 1
+  - Enemy: {fileID: 2881317471807888698, guid: 66756df1cf2631d49a34ee7b6adb63e1, type: 3}
+    NumberPerSecond:
+    - 0
+    - 0
+    - 0
+    - 1
+    - 1
+    - 1
+    - 1
+  - Enemy: {fileID: 2881317471807888698, guid: 66756df1cf2631d49a34ee7b6adb63e1, type: 3}
+    NumberPerSecond:
+    - 0
+    - 0
+    - 0
+    - 1
+    - 1
+    - 1
+    - 1
+  - Enemy: {fileID: 2881317471807888698, guid: 66756df1cf2631d49a34ee7b6adb63e1, type: 3}
+    NumberPerSecond:
+    - 0
+    - 0
+    - 0
+    - 1
+    - 1
+    - 1
+    - 1
+  - Enemy: {fileID: 2881317471807888698, guid: 66756df1cf2631d49a34ee7b6adb63e1, type: 3}
+    NumberPerSecond:
+    - 0
+    - 0
+    - 0
+    - 1
+    - 1
+    - 1
+    - 1
