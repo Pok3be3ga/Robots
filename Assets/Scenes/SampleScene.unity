@@ -3505,11 +3505,11 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: d438a863e753a4040a8c8e1b46d306d2, type: 3}
     - target: {fileID: 8152475456537471219, guid: d623ab8b6f8dab34c940d296f921fd2c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 22.007523
+      value: 21.779858
       objectReference: {fileID: 0}
     - target: {fileID: 8152475456537471219, guid: d623ab8b6f8dab34c940d296f921fd2c, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 22.007523
+      value: 21.779858
       objectReference: {fileID: 0}
     - target: {fileID: 8196812612993696243, guid: d623ab8b6f8dab34c940d296f921fd2c, type: 3}
       propertyPath: m_Pivot.x
@@ -3601,11 +3601,11 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 0473c23a0a9cb764086dca6bc1895d13, type: 3}
     - target: {fileID: 8196812613576827625, guid: d623ab8b6f8dab34c940d296f921fd2c, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 78.880005
+      value: 78.064
       objectReference: {fileID: 0}
     - target: {fileID: 8196812613576827625, guid: d623ab8b6f8dab34c940d296f921fd2c, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 78.880005
+      value: 78.064
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3703,6 +3703,10 @@ PrefabInstance:
     - target: {fileID: 7250473967116270562, guid: deaa9feeade184447ac889b8ee751b9a, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7314033781035014788, guid: deaa9feeade184447ac889b8ee751b9a, type: 3}
+      propertyPath: distanceToCollect
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7314033781035014788, guid: deaa9feeade184447ac889b8ee751b9a, type: 3}
       propertyPath: expirienceManager

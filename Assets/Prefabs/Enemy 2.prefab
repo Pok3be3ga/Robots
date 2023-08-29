@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.55475676, z: -0, w: -0.83201265}
   m_LocalPosition: {x: -7.5176578, y: 0.0000009536743, z: -13.101386}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6667102554243003240}
@@ -55,9 +55,9 @@ MonoBehaviour:
   rigidbody: {fileID: 668781839283944595}
   attackPeriod: 1
   dps: 25
-  health: 150
+  health: 75
   dieEffect: {fileID: 8891085540853434729, guid: a76161fe5e4d2c447965f3a0c359e851, type: 3}
-  LootPrefab: {fileID: 3224603453717090241, guid: 4df135ef66b802446a573d268d92f366, type: 3}
+  LootPrefab: {fileID: 3224603453717090241, guid: f49cf24cf35c4624f8e1813e5cd315fa, type: 3}
 --- !u!54 &668781839283944595
 Rigidbody:
   m_ObjectHideFlags: 0

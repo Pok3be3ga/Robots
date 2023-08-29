@@ -15,7 +15,7 @@ public class Loot : MonoBehaviour
     private IEnumerator MoveToCollector(Collector _collector)
     {
         Vector3 a = transform.position;
-        Vector3 b = a + Vector3.up * 3;
+        Vector3 b = a + Vector3.up * 6;
 
         for (float t = 0; t < 1f; t += Time.deltaTime / 0.5f)
         {
