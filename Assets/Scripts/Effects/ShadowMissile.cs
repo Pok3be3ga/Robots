@@ -41,7 +41,7 @@ public class ShadowMissile : MonoBehaviour
     {
         rigidbody.velocity = Vector3.zero;
         collider.enabled = false;
-        particleSystem.Stop();
+        //particleSystem.Stop();
         Destroy(gameObject);
     }
 

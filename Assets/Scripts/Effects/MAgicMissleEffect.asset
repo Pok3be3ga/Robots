@@ -15,7 +15,7 @@ MonoBehaviour:
   Name: "\u0421\u0442\u0440\u0435\u043B\u0430"
   Description: 
   Sprite: {fileID: 21300000, guid: ad18ee4e79b65694e965b0c527a116a4, type: 3}
-  Level: -1
+  Level: 1
   colldown: 1
   magicMisslePrefab: {fileID: 3271824463291783426, guid: 1e2d9ef30c9b2384d9087efe4141cef0, type: 3}
   bulletSpeed: 15

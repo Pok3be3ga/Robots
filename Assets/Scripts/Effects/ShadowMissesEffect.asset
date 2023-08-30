@@ -15,7 +15,8 @@ MonoBehaviour:
   Name: "\u0422\u0435\u043C\u043D\u0430\u044F \u0441\u0442\u0440\u0435\u043B\u0430"
   Description: 
   Sprite: {fileID: 21300000, guid: 2926761c293f74747b677bc82456306e, type: 3}
-  Level: -1
+  Level: 1
   colldown: 5
   shadowMissilePrefab: {fileID: 6404937254079124014, guid: 8e4e6f6206ea5f84a9cce9a0e6db459d, type: 3}
-  bulletSpeed: 6
+  bulletSpeed: 5
+  damage: 100
